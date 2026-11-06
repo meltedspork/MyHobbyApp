@@ -1,2 +1,0 @@
-# MyHobbyApp
-Twilio Hobby App
