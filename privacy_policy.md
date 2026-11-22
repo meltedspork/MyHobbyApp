@@ -1,13 +1,25 @@
 Privacy Policy
+Last updated: November 22, 2026
 
-Last updated: November 6, 2026
+MyHobbyApp is a personal hobby project operated by [Your Full Name]. It sends text messages only to my own phone number, which I opted in myself. It is not offered to the public.
 
-MyHobbyApp is a personal hobby project intended for my own use. It is not intended for public sign-up or use by other people.
+Information Collected
+The app stores my mobile phone number and the content and delivery status of messages it sends to that number.
 
-The app may process my phone number and text-message content and delivery information to send messages through Twilio. Twilio provides the communications service and processes information as needed to deliver those messages. I do not use the app to sell personal information or send messages to other users.
+How It Is Used
+This information is used only to send the text messages I have set up in the app (for example, [reminders / alerts / notifications]).
 
-I keep information only as needed to operate the app. For questions, contact me at [your email address].
+Sharing
+We do not sell, share, or rent users' personal information to third parties. No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. Text messaging originator opt-in data and consent will not be shared with any third parties. Information is passed to Twilio, our messaging provider, only as needed to deliver messages.
 
-This policy may be updated if the app’s use changes.
+Opting Out
+Reply STOP to any message to stop receiving texts. Reply HELP for help.
 
-Use this only if it accurately describes how your app works. If you later let other people use it or message them, update the policy to reflect that.
+Security and Retention
+Information is kept only as long as needed to operate the app and is protected with reasonable safeguards.
+
+Changes
+This policy may be updated if the app's use changes. The date above reflects the latest version.
+
+Contact
+Questions about this policy: myhobbyapp.contact@gmail.com
