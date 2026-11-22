@@ -11,8 +11,8 @@ The app is for my personal, non-commercial use. It will not be used to violate t
 ## SMS Messaging Terms
  
 - **Program name:** MyHobbyApp
-- **Description:** MyHobbyApp sends [reminders / alerts / notifications] by text message to the account owner's own mobile number. The account owner opts in by entering their number on the app's settings page and checking a consent box that is unchecked by default.
-- **Message frequency:** Varies, up to [X] messages per [day/week].
+- **Description:** MyHobbyApp sends reminders and alerts by text message to the account owner's own mobile number. The account owner opts in by entering their number on the app's settings page and checking a consent box that is unchecked by default.
+- **Message frequency:** Varies, up to 5 messages per day.
 - **Message and data rates may apply.**
 - **Opt out:** Reply **STOP** at any time to stop receiving messages. You will receive one confirmation message, and no further messages will be sent.
 - **Help:** Reply **HELP** for help, or email [myhobbyapp.contact@gmail.com](mailto:myhobbyapp.contact@gmail.com).
@@ -37,3 +37,4 @@ These terms may be revised as the app changes. The current version will be poste
 ## Contact
  
 [myhobbyapp.contact@gmail.com](mailto:myhobbyapp.contact@gmail.com)
+ 
